@@ -1,149 +1,217 @@
 [
-			  {
-				  "id": "superstar",
-				  "title": "Superstar",
-				  "model": "Adidas Superstar",
-				  "for": "Myself",
-				  "brief": "Lorem ipsum",
-				  "concept": "I wanted to keep this pair minimalistic and let the colors do it’s thing.",
-				  "thumb": "superstar_thumb.jpg",
-				  "hero": "superstar_hero.jpg",
-				  "images": [
-                  	["superstar_001.jpg", "span1","Angelus paint"], 
-                  	["superstar_002.jpg", "span1","Superstar WIP"], 
-                  	["superstar_003.jpg", "span1","Superstar WIP"], 
-                  	["superstar_004.jpg", "span3","Custom Superstar final"]
-                  ]
-			  },
-              {
-	              "id": "air",
-                  "title": "Air 空軍",
-                  "model": "Nike Air Force 1",
-                  "for": "Myself",
-                  "brief": "I wanted some Air Forces with a simple color palette.",
-                  "concept": "I’ve always liked the orange and black combo. And I think the orange pops pretty good on these. «Air» on the sides of the kicks, and «Air Force» in Japanese on the front.",
-                  "thumb": "nike_air_thumb.jpg",
-                  "hero": "air_hero.jpg",
-                  "images": [
-                  	["air_001.jpg", "span1", "Air Force final front – 空軍"], 
-                  	["air_002.jpg", "span2", "Air Force final side – Air"], 
-                  	["air_003.jpg", "span2", "Air Force final back"], 
-                  	["air_004.jpg", "span1", "Air Force WIP – Nike swoosh removal"],
-				  	["air_005.jpg", "span1", "Air Force WIP – Air outline"],
-				  	["air_006.jpg", "span1", "Practise writing 空軍"],
-				  	["air_007.jpg", "span1", "Air Force WIP – paintin 空軍"],
-				  	["air_008.jpg", "span3", "Air Force final on feet"]
-                  ]
-              },
-              {
-	              "id": "hong-xing",
-                  "title": "Hong Xing 洪兴",
-                  "model": "Nike Air Force 1",
-                  "for": "My girlfriends cousin",
-                  "brief": "Make some custom kicks with his name on.",
-                  "concept": "I painted his name in Chinese on the front and his name romanized on the sides. My girlfriend did the outline for the Chinese characters, and painted two well known buildings from their
-                   hometown Changsha on the insides of the shoes.",
-                  "thumb": "hong_xing_thumb.jpg",
-                  "hero": "hong_xing_hero.jpg",
-                  "images": [
-                  	["hong-xing_001.jpg", "span2", "Hong Xing final side"], 
-                  	["hong-xing_002.jpg", "span1", "Hong Xing final side"], 
-                  	["hong-xing_003.jpg", "span1", "Hong Xing final building 1"], 
-                  	["hong-xing_004.jpg", "span1", "Hong Xing final building 2"],
-				  	["hong-xing_005.jpg", "span1", "Hong Xing final two buildings"]
-                  ]
-              },
-              {
-	              "id": "lukas",
-                  "title": "Lukas",
-                  "model": "Nike Air Force 1",
-                  "for": "A colleague's son",
-                  "brief": "Do your thing",
-                  "concept": "No brief for these, just 'do your thing'. Didn't really mean to do the LA Lakers color theme, but yellow and purple goes really well together 🤷🏻‍♂️. First time trying out this splatter
-                   technique.",
-                  "thumb": "lukas_thumb.jpg",
-                  "hero": "lukas_hero.jpg",
-                  "images": [
-                  	["lukas_001.jpg", "span3", "Lukas final side"], 
-                  	["lukas_002.jpg", "span1", "Lukas final on top of shoe box"], 
-                  	["lukas_003.jpg", "span2", "Lukas final side"], 
-                  	["lukas_004.jpg", "span2", "Lukas final side"],
-				  	["lukas_005.jpg", "span1", "Lukas final front"],
-				  	["lukas_006.jpg", "span3", "Lukas final back"]
-                  ]
-              },
-              {
-	              "id": "ye-mian",
-                  "title": "Ye Mi’an 晔 密",
-                  "model": "Adidas Continental 80",
-                  "for": "My girlfriend",
-                  "brief": "For our second date we went to a sneaker store to pick out some kicks I could paint on.",
-                  "concept": "These were my first ever custom sneakers. My girlfriend wanted her and her mothers name on some kicks, and I suggested to add her hometown – Changsha, and the place she calls home now –
-                   Oslo.",
-                  "thumb": "ye-mian_thumb.jpg",
-                  "hero": "ye-mian_hero.jpg",
-                  "images": [
-                  	["ye-mian_001.jpg", "span1", "Ye Mi'an final side"], 
-                  	["ye-mian_002.jpg", "span2", "Changsha Oslo final side"], 
-                  	["ye-mian_003.jpg", "span2", "晔 密 final front"], 
-                  	["ye-mian_004.jpg", "span1", "Ye Mi'an final on feet model full body shot"],
-				  	["ye-mian_005.jpg", "span3", "Ye Changsha final on feet"]
-                  ]
-              },
-              {
-	              "id": "sweet",
-                  "title": "Sweet",
-                  "model": "Adidas Superstar",
-                  "for": "My girlfriend",
-                  "brief": " Ye wanted sprinkles on some kicks.",
-                  "concept": "My girlfriend wanted sprinkles on her kicks. Sprinkles are usually put on sweet things. So I drew the word «sweet» and some goodies you would put sprinkles on.",
-                  "thumb": "sweet_thumb.jpg",
-                  "hero": "sweet_hero.jpg",
-                  "images": [
-                  	["sweet_001.jpg", "span3", "Sweet final side"], 
-                  	["sweet_002.jpg", "span1", "Sweet WIP outline"], 
-                  	["sweet_003.jpg", "span2", "Sweet final side"], 
-                  	["sweet_004.jpg", "span1", "Donut drawing WIP paper iPad"],
-				  	["sweet_005.jpg", "span1", "Donut drawing WIP outline"],
-				  	["sweet_006.jpg", "span1", "Donut painting final"],
-				  	["sweet_007.jpg", "span3", "Sweet final on feet"]
-                  ]
-              },
-              {
-	              "id": "莫童-vans",
-                  "title": "莫童",
-                  "model": "Vans Classic Slip-on",
-                  "for": "Myself",
-                  "brief": "Lorem Ipsum..",
-                  "concept": "My first customs made out of something that's not leather. Messed up a bunch of times, but the final result is my name in Chinese on the front of these classics.",
-                  "thumb": "vans_thumb.jpg",
-                  "hero": "vans_hero.jpg",
-                  "images": [
-                  	["莫童-vans_001.jpg", "span1", "莫童 WIP outline"], 
-                  	["莫童-vans_002.jpg", "span1", "莫童 WIP front"], 
-                  	["莫童-vans_003.jpg", "span1", "莫童 final back"], 
-                  	["莫童-vans_004.jpg", "span2", "莫童 WIP black spray paint"],
-				  	["莫童-vans_005.jpg", "span1", "莫童 WIP black yellow spray paint"],
-				  	["莫童-vans_006.jpg", "span3", "莫童 final front"]
-				  ]
-              },
-              {
-	              "id": "莫童-supercourt",
-                  "title": "莫童",
-                  "model": "Adidas Supercourt",
-                  "for": "Myself",
-                  "brif": "Just wanted another pair with my Chinese name.",
-                  "concept": "I've started to enjoy drawing my name in Chinese. Kept the color palette and effects minimal and added som drips.",
-                  "thumb": "morten_supercourt_thumb.jpg",
-                  "hero": "morten_supercourt_hero.jpg",
-                  "images": [
-                  	["莫童-supercourt_001.jpg", "span1", "莫童 final front"], 
-                  	["莫童-supercourt_002.jpg", "span1", "莫童 final back"], 
-                  	["莫童-supercourt_003.jpg", "span1", "莫童 final side"], 
-                  	["莫童-supercourt_004.jpg", "span1", "莫童 WIP outline"],
-				  	["莫童-supercourt_005.jpg", "span2", "莫童 WIP paint"],
-				  	["莫童-supercourt_006.jpg", "span3", "莫童 final side drips"]
-                  ]
-              }
-              
-		  ]
+    {
+        "id": "superstar",
+        "title": "Superstar",
+        "model": "Adidas Superstar",
+        "for": "Myself",
+        "brief": "Lorem ipsum",
+        "concept": "I wanted to keep this pair minimalistic and let the colors do it’s thing.",
+        "thumb": "superstar_thumb.jpg",
+        "hero": "superstar_hero.jpg",
+        "images": [
+        	["superstar_001.jpg", "span1","Angelus paint"], 
+        	["superstar_002.jpg", "span1","Superstar WIP"], 
+        	["superstar_003.jpg", "span1","Superstar WIP"], 
+        	["superstar_004.jpg", "span3","Custom Superstar final"]
+        ]
+    },
+    {
+        "id": "air",
+        "title": "Air 空軍",
+        "model": "Nike Air Force 1",
+        "for": "Myself",
+        "brief": "I wanted some Air Forces with a simple color palette.",
+        "concept": "I’ve always liked the orange and black combo. And I think the orange pops pretty good on these. «Air» on the sides of the kicks, and «Air Force» in Japanese on the front.",
+        "thumb": "nike_air_thumb.jpg",
+        "hero": "air_hero.jpg",
+        "images": [
+        	["air_001.jpg", "span1", "Air Force final front – 空軍"], 
+        	["air_002.jpg", "span2", "Air Force final side – Air"], 
+        	["air_003.jpg", "span2", "Air Force final back"], 
+        	["air_004.jpg", "span1", "Air Force WIP – Nike swoosh removal"],
+        	["air_005.jpg", "span1", "Air Force WIP – Air outline"],
+        	["air_006.jpg", "span1", "Practise writing 空軍"],
+        	["air_007.jpg", "span1", "Air Force WIP – paintin 空軍"],
+        	["air_008.jpg", "span3", "Air Force final on feet"]
+        ]
+    },
+    {
+        "id": "hong-xing",
+        "title": "Hong Xing 洪兴",
+        "model": "Nike Air Force 1",
+        "for": "My girlfriends cousin",
+        "brief": "Make some custom kicks with his name on.",
+        "concept": "I painted his name in Chinese on the front and his name romanized on the sides. My girlfriend did the outline for the Chinese characters, and painted two well known buildings from their hometown Changsha on the insides of the shoes.",
+        "thumb": "hong_xing_thumb.jpg",
+        "hero": "hong_xing_hero.jpg",
+        "images": [
+        	["hong-xing_001.jpg", "span2", "Hong Xing final side"], 
+        	["hong-xing_002.jpg", "span1", "Hong Xing final side"], 
+        	["hong-xing_003.jpg", "span1", "Hong Xing final building 1"], 
+        	["hong-xing_004.jpg", "span1", "Hong Xing final building 2"],
+        	["hong-xing_005.jpg", "span1", "Hong Xing final two buildings"]
+        ]
+    },
+    {
+        "id": "lukas",
+        "title": "Lukas",
+        "model": "Nike Air Force 1",
+        "for": "A colleague's son",
+        "brief": "Do your thing",
+        "concept": "No brief for these, just 'do your thing'. Didn't really mean to do the LA Lakers color theme, but yellow and purple goes really well together 🤷🏻‍♂️. First time trying out this splatter technique.",
+        "thumb": "lukas_thumb.jpg",
+        "hero": "lukas_hero.jpg",
+        "images": [
+        	["lukas_001.jpg", "span3", "Lukas final side"], 
+        	["lukas_002.jpg", "span1", "Lukas final on top of shoe box"], 
+        	["lukas_003.jpg", "span2", "Lukas final side"], 
+        	["lukas_004.jpg", "span2", "Lukas final side"],
+        	["lukas_005.jpg", "span1", "Lukas final front"],
+        	["lukas_006.jpg", "span3", "Lukas final back"]
+        ]
+    },
+    {
+        "id": "ye-mian",
+        "title": "Ye Mi’an 晔 密",
+        "model": "Adidas Continental 80",
+        "for": "My girlfriend",
+        "brief": "For our second date we went to a sneaker store to pick out some kicks I could paint on.",
+        "concept": "These were my first ever custom sneakers. My girlfriend wanted her and her mothers name on some kicks, and I suggested to add her hometown – Changsha, and the place she calls home now – Oslo.",
+        "thumb": "ye-mian_thumb.jpg",
+        "hero": "ye-mian_hero.jpg",
+        "images": [
+        	["ye-mian_001.jpg", "span1", "Ye Mi'an final side"], 
+        	["ye-mian_002.jpg", "span2", "Changsha Oslo final side"], 
+        	["ye-mian_003.jpg", "span2", "晔 密 final front"], 
+        	["ye-mian_004.jpg", "span1", "Ye Mi'an final on feet model full body shot"],
+        	["ye-mian_005.jpg", "span3", "Ye Changsha final on feet"]
+        ]
+    },
+    {
+        "id": "sweet",
+        "title": "Sweet",
+        "model": "Adidas Superstar",
+        "for": "My girlfriend",
+        "brief": " Ye wanted sprinkles on some kicks.",
+        "concept": "My girlfriend wanted sprinkles on her kicks. Sprinkles are usually put on sweet things. So I drew the word «sweet» and some goodies you would put sprinkles on.",
+        "thumb": "sweet_thumb.jpg",
+        "hero": "sweet_hero.jpg",
+        "images": [
+        	["sweet_001.jpg", "span3", "Sweet final side"], 
+        	["sweet_002.jpg", "span1", "Sweet WIP outline"], 
+        	["sweet_003.jpg", "span2", "Sweet final side"], 
+        	["sweet_004.jpg", "span1", "Donut drawing WIP paper iPad"],
+        	["sweet_005.jpg", "span1", "Donut drawing WIP outline"],
+        	["sweet_006.jpg", "span1", "Donut painting final"],
+        	["sweet_007.jpg", "span3", "Sweet final on feet"]
+        ]
+    }, 
+    {
+        "id": "joran",
+        "title": "Jøran 尤燃",
+        "model": "Nike BLAZER MID '77",
+        "for": "My brother",
+        "brief": "Birthday gift.",
+        "concept": "Went with my classic Chinese and romanized name on each sneaker, and some vibrant splashes for the background.",
+        "thumb": "joran_thumb.jpg",
+        "hero": "joran_hero.jpg",
+        "images": [
+        	["joran_001.jpg", "span1", "Nike swoosh cut of a sneaker."], 
+        	["joran_002.jpg", "span1", "Jøran letters painted on white sneaker."], 
+        	["joran_003.jpg", "span1", "尤燃 painted on black sneaker."], 
+        	["joran_004.jpg", "span1", "Jøran painted on black sneaker."],
+        	["joran_005.jpg", "span2", "Vibrant orange and blue splashes on black sneakers."],
+        	["joran_006.jpg", "span2", "Close up of MH leather name tag on sneaker."],
+        	["joran_007.jpg", "span1", "Orange splashes on the back of two sneakers."],
+        	["joran_008.jpg", "span3", "Finished sneakers with Jøran letters."]
+        ]
+    },
+    {
+        "id": "ghibli",
+        "title": "Studio Ghibli",
+        "model": "Adidas Supercourt",
+        "for": "Myself",
+        "brief": "Trying out characters on some kicks.",
+        "concept": "I've loved the movies from Studio Ghibli for many years. So when choosing what characters would be my first on a pair of sneakers the choice was pretty easy. On the sneakers you'll find characters from the movies Spirited Away, My Neighbor Totoro, Princess Mononoke, Ponyo and Kiki's Delivery Service.",
+        "thumb": "ghibli_thumb.jpg",
+        "hero": "ghibli_hero.jpg",
+        "images": [
+        	["ghibli_001.jpg", "span1", "Ponyo on left heel"], 
+        	["ghibli_002.jpg", "span1", "Princess Mononoke and Totoro on the front of each shoe."], 
+        	["ghibli_003.jpg", "span1", "White forest character from Princess Mononoke."], 
+        	["ghibli_004.jpg", "span1", "Princess Mononoke"],
+        	["ghibli_005.jpg", "span2", "Chihiro and No Face from Spirited Away"],
+        	["ghibli_006.jpg", "span3", "Kiki from Kiki's Delivery Service."]
+        ]
+    },
+    {
+        "id": "莫童-vans",
+        "title": "莫童",
+        "model": "Vans Classic Slip-on",
+        "for": "Myself",
+        "brief": "Lorem Ipsum..",
+        "concept": "My first customs made out of something that's not leather. Messed up a bunch of times, but the final result is my name in Chinese on the front of these classics.",
+        "thumb": "vans_thumb.jpg",
+        "hero": "vans_hero.jpg",
+        "images": [
+            ["莫童-vans_001.jpg", "span1", "莫童 WIP outline"], 
+            ["莫童-vans_002.jpg", "span1", "莫童 WIP front"], 
+            ["莫童-vans_003.jpg", "span1", "莫童 final back"], 
+            ["莫童-vans_004.jpg", "span2", "莫童 WIP black spray paint"],
+            ["莫童-vans_005.jpg", "span1", "莫童 WIP black yellow spray paint"],
+            ["莫童-vans_006.jpg", "span3", "莫童 final front"]
+        ]
+    },
+    {
+        "id": "vue",
+        "title": "Vue.js",
+        "model": "Nike Air Force 1",
+        "for": "Evan You – creator of Vue.js",
+        "brif": "",
+        "concept": "Vue themed sneakers. Vue.js is the first JavaScript framework I learned, so I wanted to give something back to it's creator – Evan You.",
+        "thumb": "vue_001.jpg",
+        "hero": "vue_001.jpg",
+        "images": [
+            ["vue_002.jpg", "span1", "Front of shoe – splatter"], 
+            ["vue_003.jpg", "span1", "Morten tag"], 
+            ["vue_004.jpg", "span1", "Back of shoe – Nike Air logo"], 
+            ["vue_005.jpg", "span2", "Desk, work in progress"],
+            ["vue_006.jpg", "span1", "Side view both shoes"]
+        ]
+    },
+    {
+        "id": "fanyi",
+        "title": "Fan Yi",
+        "model": "Adidas Superstar",
+        "for": "A friend of my girlfriend",
+        "brif": "",
+        "concept": "Fan Yi wanted something cute an festive. I drew her name, some baloons, lots of small dots and some splatter. Design of the chinese characters done by my girlfriend.",
+        "thumb": "fanyi_001.jpg",
+        "hero": "fanyi_001.jpg",
+        "images": [
+            ["fanyi_002.jpg", "span1", "Side view of both shoes"], 
+            ["fanyi_003.jpg", "span1", "Back of the shoes"], 
+            ["fanyi_004.jpg", "span1", "Baloons close up"], 
+            ["fanyi_005.jpg", "span1", "Chinese characters and baloons"],
+            ["fanyi_006.jpg", "span2", "Fan Yi graffiti name"]
+        ]
+    },
+    {
+        "id": "莫童-supercourt",
+        "title": "莫童",
+        "model": "Adidas Supercourt",
+        "for": "Myself",
+        "brif": "Just wanted another pair with my Chinese name.",
+        "concept": "I've started to enjoy drawing my name in Chinese. Kept the color palette and effects minimal and added som drips.",
+        "thumb": "morten_supercourt_thumb.jpg",
+        "hero": "morten_supercourt_hero.jpg",
+        "images": [
+        	["莫童-supercourt_001.jpg", "span1", "莫童 final front"], 
+        	["莫童-supercourt_002.jpg", "span1", "莫童 final back"], 
+        	["莫童-supercourt_003.jpg", "span1", "莫童 final side"], 
+        	["莫童-supercourt_004.jpg", "span1", "莫童 WIP outline"],
+        	["莫童-supercourt_005.jpg", "span2", "莫童 WIP paint"],
+        	["莫童-supercourt_006.jpg", "span3", "莫童 final side drips"]
+        ]
+    }
+]

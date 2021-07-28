@@ -196,6 +196,10 @@ export default {
     align-items: center;
 }
 
+.photo_grid a img{
+	display: block;
+}
+
 .item
 {	
 	width: 100%;
